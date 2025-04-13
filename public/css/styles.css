@@ -1,0 +1,16 @@
+/* Additional custom styles */
+.hidden {
+    display: none;
+}
+
+/* Smooth transitions for the results section */
+#results {
+    transition: all 0.3s ease;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .container {
+        padding: 0 1rem;
+    }
+}
